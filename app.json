@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A React Native based app which guesses the number given by the user.",
+    "githubUrl": "https://github.com/coding-spidey/guessing-game-app"
   }
 }

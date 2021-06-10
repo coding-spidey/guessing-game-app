@@ -110,7 +110,8 @@ const styles = StyleSheet.create({
   },
   inputContainer: {
     borderRadius: 5,
-    width: 300,
+    width: "80%",
+    minWidth: 300,
     alignItems: "center",
   },
   input: {
@@ -124,6 +125,7 @@ const styles = StyleSheet.create({
   buttonContainer: {
     flexDirection: "row",
     width: "80%",
+    maxWidth: "95%",
     justifyContent: "space-between",
     paddingHorizontal: 15,
   },
